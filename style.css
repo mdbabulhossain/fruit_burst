@@ -1,0 +1,192 @@
+
+
+.nav{
+    width:1440px;
+    height: 120px;
+    background-color:#F85559;
+    border-radius:600px;
+    margin: auto;
+    display: flex;
+
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.menu ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px 20px;
+    
+}
+.menu ul li a{text-decoration: none;
+    color: #FFF;
+}
+.log h1{color: white;}
+.search{
+    display: flex;
+}
+.log{
+    display: flex;
+    padding: 20px 20px;
+    align-items: center;
+    margin: auto;
+}
+
+.search{
+    width: 400px;
+    height: 56px;
+    border-radius: 50px;
+    background: #FFF;
+    margin: 35px 200px;
+    
+
+}
+.search>p{
+    text-align: center;
+    margin: auto
+}
+.banner{
+    width:1440px;
+    height: 600px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 8px;
+    background-image: linear-gradient(180deg, #121212 0%, rgba(18, 18, 18, 0.00) 100%),url(img/banner1.png);
+    background-position: center;
+    text-align: center;
+}
+
+.banner_tital{
+    margin-top: 30px;
+    padding: 60px;
+}
+.banner_tital>h1{ color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+.banner_tital>p{
+    color: #FFF;
+text-align: center;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.banner_btn{
+    display: inline-flex;
+    padding: 20px 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+   background: #F85559;
+   border: none;
+
+}
+.deal_of{
+    display: flex;
+    padding: 30px 100px;
+}
+
+
+.deal_of_ty{
+    display: inline-block;
+}
+.deal_of_ty2{
+    display: flex;
+    float: left;
+    margin: 40px 220px;
+}
+
+.card{
+    text-align: center;
+    margin: auto;
+}
+.card_1{
+   width: 200px;
+    height: 250px;
+    text-align: center;
+    display:inline-block;
+}
+.team{
+    width:1440px;
+    height: 700px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 8px;
+    background-image: linear-gradient(180deg, #121212 0%, rgba(18, 18, 18, 0.70) 100%),url(img/banner1.png);
+    background-position: center;
+    text-align: center;
+   
+}
+.banner_tital{
+    
+
+}
+.team_img{
+    display: flex;
+    padding: 10px 20px;
+    margin: 0px 250px;
+    gap: 45px;
+}
+
+.team_1{
+    color:white;
+  font-size: 16px;}
+  .team_2{
+    color:white;
+    font-size: 16px;
+  }
+  .team_3{
+    color:white;
+    font-size: 16px;
+  }
+  .team_4{
+    color:white;
+    font-size: 16px;
+  }
+
+  footer{
+    width: 1480px;
+    height: 260px;
+    background: #121212;
+    margin-top: 50px;
+    
+    }
+  
+.log_2{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 20px 500px;
+    padding: 20px 20px;
+}
+
+  .log_2>h1{color: white;
+    
+  }
+  .menu_2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 300px;
+    padding: 20px 20px;
+  }
+  .menu_2 ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px 20px;
+}
+.menu_2 ul li a{text-decoration: none;
+    color: #FFF;
+}
+.log h1{color: white;}
